@@ -44,4 +44,4 @@ You'll be prompted to upload documents. **Click on the upload icon and add the f
 
 ![image](https://user-images.githubusercontent.com/86511074/170098737-dab60d0e-eb3a-4a75-acc7-1f9009524b8b.png)
 
-The most important fields are name, slug, and description. Name is the title of the course, slug the path to the course that we'll append to [(https://www.coursera.org/learn/)]
+The most important fields are name, slug, and description. Name is the title of the course, slug the path to the course that we'll append to https://www.coursera.org/learn/
