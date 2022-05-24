@@ -44,4 +44,17 @@ You'll be prompted to upload documents. **Click on the upload icon and add the f
 
 ![image](https://user-images.githubusercontent.com/86511074/170098737-dab60d0e-eb3a-4a75-acc7-1f9009524b8b.png)
 
-The most important fields are name, slug, and description. Name is the title of the course, slug the path to the course that we'll append to https://www.coursera.org/learn/
+The most important fields are name, slug, and description. Name is the title of the course, slug the path to the course that we'll append to https://www.coursera.org/learn/ to generate the course URL, and description gives Watson Discovery enough info to determine the relevance of the user query to the course content. Once the import is completed, you should see something similar to the image below. The number of imported documents is reported, as well as the fields that were identified by Watson. Name, slug, and description were identified correctly, so we are good as far as we are concerned. 
+
+![image](https://user-images.githubusercontent.com/86511074/170100569-e524c5a1-affd-413e-8a5f-904019ddd38a.png)
+
+You'll notice how there are several enrichments available. **Click on Add enrichments**
+
+![image](https://user-images.githubusercontent.com/86511074/170100819-1e717ebc-d0dd-4ad1-ab2b-a59157466a68.png)
+
+Enrichments tell Watson what kind of analysis we want to run on the data we uploaded, and then store that information as metadata attached to our raw content.
+
+After uploading every documents we can see the environment creted 
+
+![image](https://user-images.githubusercontent.com/86511074/170101402-770b5a4a-7496-4500-8077-6423dede82a8.png)
+
