@@ -54,7 +54,16 @@ You'll notice how there are several enrichments available. **Click on Add enrich
 
 Enrichments tell Watson what kind of analysis we want to run on the data we uploaded, and then store that information as metadata attached to our raw content.
 
-After uploading every documents we can see the environment creted 
+After uploading every documents we can see the environment created 
 
 ![image](https://user-images.githubusercontent.com/86511074/170101402-770b5a4a-7496-4500-8077-6423dede82a8.png)
 
+Next we have to create the chatbot, its intents and entities
+
+![image](https://user-images.githubusercontent.com/86511074/170248850-fad53f51-3f8e-4a73-a40d-33e7fbd1f164.png)
+
+![image](https://user-images.githubusercontent.com/86511074/170248953-ae82c1a4-fa6b-4241-9c6a-2abce3177cb3.png)
+
+And then we have to add and integrate the Discovery with our Chatbot
+
+![image](https://user-images.githubusercontent.com/86511074/170249168-009e9ee3-3b3c-41b7-a2fc-0aeed09f3610.png)
