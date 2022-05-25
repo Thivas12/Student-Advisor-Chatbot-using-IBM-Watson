@@ -67,3 +67,14 @@ Next we have to create the chatbot, its intents and entities
 And then we have to add and integrate the Discovery with our Chatbot
 
 ![image](https://user-images.githubusercontent.com/86511074/170249168-009e9ee3-3b3c-41b7-a2fc-0aeed09f3610.png)
+
+Next we can make interface. Before that we will create a new Speech to Text service and Translator within IBM Cloud. After completing with the implementation, it looks liks this,
+
+![image](https://user-images.githubusercontent.com/86511074/170250271-0d11b248-893b-4917-a83c-763a1d66eede.png)
+
+The flow of the requests and response has a proper structure in IBM 
+
+![image](https://user-images.githubusercontent.com/86511074/170250438-1ff81dc4-bbde-4895-b961-e94cd30b7dec.png)
+
+
+So when everything is done we can finally deploy the application!!.
